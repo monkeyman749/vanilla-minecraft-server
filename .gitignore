@@ -1,0 +1,16 @@
+# Ignore Minecraft server and world data
+world/
+world_nether/
+world_the_end/
+logs/
+crash-reports/
+cache/
+*.log
+*.jar
+eula.txt
+server.properties
+usercache.json
+whitelist.json
+banned-players.json
+banned-ips.json
+ops.json
