@@ -1,0 +1,10 @@
+# Example server.properties for Vanilla Minecraft
+
+# Server port (default 25565)
+server-port=25565
+# Max players
+max-players=20
+# Message of the day
+motd=Vanilla Minecraft Server
+# Online mode (true for Mojang authentication)
+online-mode=true
